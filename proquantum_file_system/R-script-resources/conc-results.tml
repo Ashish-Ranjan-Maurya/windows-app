@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><GraphPadPrismFile PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="7.0c.169" Login="david.bourdon" DateTime="2017-07-11T19:36:12-07:00" MinVersion="7.0.0.0"></OriginalVersion>
+</Created>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"></Ref>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes>
+</Notes>
+<Constant><Name>Experiment Date</Name><Value>2017-07-12</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value></Value></Constant>
+<Constant><Name>Notebook ID</Name><Value></Value></Constant>
+<Constant><Name>Project</Name><Value></Value></Constant>
+<Constant><Name>Experimenter</Name><Value></Value></Constant>
+<Constant><Name>Protocol</Name><Value></Value></Constant>
+</Info>
+
+<TableSequence Selected="1">
+
+<Ref ID="Table0"></Ref>
+<Ref ID="Table1" Selected="1"></Ref>
+</TableSequence>
+<Table ID="Table0" XFormat="numbers" YFormat="replicates" Replicates="$STANDARD-REP$" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Standard Curve</Title>
+<RowTitlesColumn Width="39">
+<Subcolumn></Subcolumn>
+</RowTitlesColumn>
+<XColumn Width="219" Subcolumns="1" Decimals="7">
+<Title>Analyte concentration, pg/mL</Title>
+$STANDARD-CONC$
+</XColumn>
+<XAdvancedColumn Version="1" Width="219" Decimals="7" Subcolumns="1">
+<Title>Analyte concentration, pg/mL</Title>
+$STANDARD-CONC$
+</XAdvancedColumn>
+<YColumn Width="162" Decimals="8" Subcolumns="$STANDARD-REP$">
+<Title>Ct</Title>
+$STANDARD-CT$
+</YColumn>
+</Table>
+<Table ID="Table1" XFormat="none" YFormat="replicates" Replicates="$UNKNOWN-REP$" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Unknowns</Title>
+<RowTitlesColumn Width="81">
+$UNKNOWN-NAME$
+</RowTitlesColumn>
+$UNKNOWN-GROUPS$
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don&apos;t edit this part of the file.-->
+
+<Template dt:dt="bin.base64" xmlns:dt="urn:schemas-microsoft-com:datatypes">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
+QhQ+JgOT9X0xIEdRvJUukdVQ5VF5VJ4LN4++tmKllWtrvNyJSFR5VJ6/tTz6KKKR
+GkUqj8rTizz6KEom6pynoNAb6KMIz0fUKFJQ6Dn0UWQjahQpKPQG+ijCc2s1ihQU
+eo6PXGHXOnYmAvRPlTzI3oLU7+jvZC914D6e+W1f8PpVvGnC3/bhAF+Z2kGFLGv1
++I7SuG0gIau/9fG97y44WDDsldt3F15q3fCTYf89YONnV9xe/Hz7fXvnHly/Zo5t
+yO5D925+ueD6N+uPv1V/3187Jv/q2qyGWaM3tZ/8/MzNH//Xym98+FLr5IGzRt95
+1zuvvL919wf/Nm79oIsnp298Z+vYK5b8+3NjbcGl7ellJ8alV7tPzdw24sOUt8eP
+vuazsrenfXKJ7ZVR7+/I0ra3lNsfe/D4m0/ufXfyN15cf+LOZS9NqCIdz1lT5+2d
+Nviehl3BpxZ5/mdb/bDX1x5pXPneTR9cvT196MDdc5+e9/dbnmk+Mvfu69YVPbX3
+mV88Ofu5f34+KfU/3GsXrn6sfMOvJn329CUvWkdOevqHVadWrVubOuy2HS+/seH4
+qTvajtx0MG+r/f+eHdW4f8i35749p/yhPw//Qdbm723eV/hw85sHbjn28+1zNh5s
+TzteMSb/olfSdo5Y9Jv03/xui7c96cfNh3731G+r7mjtmF68Z8bPWn/ZNNy6Z9RP
+H1//T2XPPnDd5Ok1nyet+X7rn0+2N31z4qWX/uGWiRO+PfCN5E2BA2M3tibfY3/w
+xsdzR1Q81Pzeg0dKG+pfWLg1d0/DosW+ducT979QMfaGjQvuyNnw8sIXf3jj9pKR
+Cxtu2LXk3peWv/bRvPt2tf122KE5C8o/H+p99F9OjLy45ueVR0bvevLEybWffqdq
+3UMnK9eM/eXm94s7Xnr2wAM1ZW/sX6b56wa7prCXddAz8BsKdzDQoNWGHPiXNx2F
+pPuP0JlxLl+virwpdL7eZyfdf+oGaIy88R/5RFnuvj88fuoti5+99DVndZMWxL+S
+FXLM9oQ0EmBvaM1r8eUVFuYVFRQWEz9759WQr2I2zcWa3s8yLwiEtBWBwMqoCxiu
+wmF6In7NpwvSgvoVtBTNHgrUBnx6KosE9z32u1rh8ZnO7X+d8fqhQzM4Gw197pni
+Sgq7jJd6CYvr/wEAAP//AwCh438B</Template></GraphPadPrismFile>
